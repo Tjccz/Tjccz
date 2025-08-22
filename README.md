@@ -1,5 +1,8 @@
-## Hi there 👋
-
+<center># Hi , I'm Tjc 👋</center>center>
+### About me :  
+- 🌏 a boy who loves to code  
+- 🐾 a furry fans  
+- ❤️ love 📸 photography, 🎬 movies, 🍱 food, 🎵 music, and 🍓 delicious fruits  
 <!--
 **Tjccz/Tjccz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
