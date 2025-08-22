@@ -1,4 +1,4 @@
-<center># Hi , I'm Tjc 👋</center>center>
+<center># Hi , I'm Tjc 👋</center>
 ### About me :  
 - 🌏 a boy who loves to code  
 - 🐾 a furry fans  
